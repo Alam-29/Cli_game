@@ -1,1 +1,3 @@
-## cli game!
+## simple cli game
+
+It still dosen't run on the CLI, I still need to add that...
